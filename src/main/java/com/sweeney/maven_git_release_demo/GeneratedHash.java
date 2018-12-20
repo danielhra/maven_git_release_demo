@@ -6,6 +6,7 @@ public class GeneratedHash implements Serializable {
 
     // added commentary
     //cambio
+    /asasd
 
     private static final long serialVersionUID = 7413407549115971693L;
     private String hash;
